@@ -1,3 +1,4 @@
 {
-  "api_base": "us.api.blizzard.com"
+  "api_base": "us.api.blizzard.com",
+  "token": "US2iL3WL6D1ViEOdASamMs9EWgRA3mOveN"
 }
